@@ -11,14 +11,30 @@ Business Problem:
 Analyze the data and generate insights that could help Netflix decide which type of shows/movies to produce and how to grow the business in different countries.
 Libraries Used:
 
-•	Numpy
+•Data Loading & Cleaning (Pandas):
 
-•	Pandas
+I used Pandas to load the dataset and clean the data by handling missing values, duplicates, and outliers. This involved:
 
+Removing null values using dropna() and filling missing data with appropriate values using fillna().
+Detecting and removing duplicate rows.
+Handling outliers using statistical methods like IQR (Interquartile Range) and visual methods such as box plots.
+Data Exploration (NumPy & Pandas):
 
-•	Matplotlib
+I conducted basic data exploration using NumPy for numerical calculations and Pandas for aggregations and summaries:
 
-•	Seaborn
+Calculating mean, median, mode, and standard deviation for numeric columns using NumPy.
+Using groupby() and pivot_table() in Pandas to analyze categorical relationships and numerical summaries.
+Visualization (Matplotlib & Seaborn):
+
+Matplotlib 
+I used Matplotlib and Seaborn to visualize data distributions and relationships between features:
+
+Created basic line plots, bar charts, and histograms for visualizing time series, categorical, and distribution data.
+Used subplots() to create comparative visualizations across multiple dimensions.
+Seaborn:
+Generated advanced plots like pair plots and heatmaps to visualize correlations between variables.
+Used box plots and violin plots to highlight distribution spread and outliers.
+
 Business Insights and Recommendations:
 
 •	From analysis it can be seen in total Netflix has 8807 total shows inkling Movies and Tv Shows both and out of which there are  
