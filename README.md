@@ -10,9 +10,14 @@ This tabular dataset consists of listings of all the movies and TV shows availab
 Business Problem:
 Analyze the data and generate insights that could help Netflix decide which type of shows/movies to produce and how to grow the business in different countries.
 Libraries Used:
+
 •	Numpy
+
 •	Pandas
+
+
 •	Matplotlib
+
 •	Seaborn
 Business Insights and Recommendations:
 
