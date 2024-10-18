@@ -1,12 +1,14 @@
 # NetFlix-Data-Exploration
 Netflix-Business case---EDA using Python
+
 The objective of this project is to analyze the given Netflix dataset and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
+
 About the Dataset:
-Netflix, Inc. is an American subscription streaming service and production company. It offers a library of films and television series through distribution deals as well as its own productions, known as Netflix Originals. As of March 31, 2023, with an estimated 232.5 million paid memberships in more than 190 countries, it is the most-subscribed video on demand streaming service. Founded by Reed Hastings and Marc Randolph in Scotts Valley, California, Netflix initially operated as a DVD sales and rental business. However, within a year, it shifted its focus exclusively to DVD rentals. In 2007, the company introduced streaming media and video on demand services, marking a significant step in its evolution..
-The Dataset consists of data of range 2008-mid 2021 ,about 8807 tv shows and movies available , along with other details such as – cast, director, type ,ratings, release year ,duration etc. .The data is available in single csv file
-This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - ShowId,Type,Title,country,cast, directors, ratings, release year, duration, etc.
+Netflix, Inc. is an American subscription streaming service and production company. It offers a library of films and television series through distribution deals as well as its own productions, known as Netflix Originals. As of March 31, 2023, with an estimated 232.5 million paid memberships in more than 190 countries, it is the most subscribed video-on-demand streaming service. Founded by Reed Hastings and Marc Randolph in Scotts Valley, California, Netflix initially operated as a DVD sales and rental business. However, within a year, it shifted its focus to DVD rentals. In 2007, the company introduced streaming media and video-on-demand services, marking a significant step in its evolution.
+The Dataset consists of data of range 2008-mid 2021, about 8807 TV shows and movies available, along with other details such as – cast, director, type , ratings, release year, duration etc.The data is available in a single CSV file
+This tabular dataset consists of listings of all the movies and TV shows available on Netflix, along with details such as - ShowId, Type, Title, country, cast, directors, ratings, release year, duration, etc.
 Business Problem:
-Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
+Analyze the data and generate insights that could help Netflix decide which type of shows/movies to produce and how to grow the business in different countries.
 Libraries Used:
 •	Numpy
 •	Pandas
